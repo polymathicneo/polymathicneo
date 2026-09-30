@@ -5,21 +5,22 @@
 
 <br />
 
-<!-- STATS CARDS SECTION WITH HAMMERING GIRL (NO PEPE) -->
+<!-- STATS CARDS SECTION WITH HAMMERING GIRL OVER STREAK CARD -->
 <table border="0" align="center">
-  <tr>
-    <!-- LEFT: GitHub Overall Stats -->
-    <td valign="bottom" align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=polymathicneo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
+<tr>
+<td valign="bottom" align="center" width="50%">
 
-    <!-- RIGHT: Hammering Girl (No Pepe) sitting above the streak card -->
-    <td valign="bottom" align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41bHRsdTN3ZzNmNjBhYWsxbDRsYnlmbXpzbzZqNjA1NmVqMGFxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fM4x0MrB9yP8E41O9H/giphy.gif" width="140" alt="Hammering" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=polymathicneo&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
+<img src="https://github-readme-stats.vercel.app/api?username=polymathicneo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+
+</td>
+<td valign="bottom" align="center" width="50%">
+
+<img src="girlgif.gif" width="160" alt="Hammering Girl" />
+<br />
+<img src="https://streak-stats.demolab.com?user=polymathicneo&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+
+</td>
+</tr>
 </table>
 
 <br />
