@@ -1,17 +1,26 @@
-<!-- TOP BANNER: HAMMERING GIRL EFFECT -->
+<!-- TOP BANNER: QUOTE -->
 <div align="center">
-  <img src="girlgif.gif" width="220" alt="Building in progress..." />
-  <br />
   <h1>⚡ Fuel the ambition, master the craft, and let the code speak louder than words. ⚡</h1>
 </div>
 
 <br />
 
-<!-- STATS CARDS SECTION -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polymathicneo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=polymathicneo&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
+<!-- STATS CARDS SECTION WITH HAMMERING GIRL (NO PEPE) -->
+<table border="0" align="center">
+  <tr>
+    <!-- LEFT: GitHub Overall Stats -->
+    <td valign="bottom" align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=polymathicneo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+    </td>
+
+    <!-- RIGHT: Hammering Girl (No Pepe) sitting above the streak card -->
+    <td valign="bottom" align="center" width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41bHRsdTN3ZzNmNjBhYWsxbDRsYnlmbXpzbzZqNjA1NmVqMGFxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fM4x0MrB9yP8E41O9H/giphy.gif" width="140" alt="Hammering" />
+      <br />
+      <img src="https://streak-stats.demolab.com?user=polymathicneo&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
