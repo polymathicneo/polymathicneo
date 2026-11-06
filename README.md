@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polymathicneo&cache_seconds=0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=polymathicneo&cache_seconds=1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polymathicneo&cache_seconds=1&layout=compact&langs_count=10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=polymathicneo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=polymathicneo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu&cache_seconds=86400" height="170" alt="GitHub streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polymathicneo&layout=compact&langs_count=10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html&cache_seconds=86400" height="170" alt="Top languages" />
 </div>
 
 ###
