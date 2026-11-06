@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=polymathicneo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&v=2" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=polymathicneo&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=polymathicneo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu&cache_seconds=86400" height="170" alt="GitHub streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=polymathicneo&layout=compact&langs_count=10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html&v=2" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polymathicneo&layout=compact&langs_count=10&theme=dracula&hide_border=false&hide=html&cache_seconds=86400" height="170" alt="Top languages" />
 </div>
 
 ###
