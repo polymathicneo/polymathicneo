@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polymathicneo&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="170" alt="GitHub stats" />
+  <img src="./github-stats.svg" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=polymathicneo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu&cache_seconds=86400" height="170" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polymathicneo&layout=compact&langs_count=10&theme=dracula&hide_border=false&hide=html&cache_seconds=86400" height="170" alt="Top languages" />
+  <img src="./top-languages.svg" height="170" alt="Top languages" />
 </div>
 
 ###
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img width="12" />
