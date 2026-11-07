@@ -2,11 +2,19 @@
 
 ###
 
-<div align="center">
-  <img src="./girlgif.gif" height="170" alt="Quote GIF" />
-  <img src="https://streak-stats.demolab.com?user=polymathicneo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu&cache_seconds=86400" height="170" alt="GitHub streak" />
-  <img src="./top-languages.svg" height="170" alt="Top languages" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="./girl-transparent.gif" height="170" alt="Girl hammering to maintain the streak" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com?user=polymathicneo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu&cache_seconds=86400" height="170" alt="GitHub streak" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="./top-languages.svg" height="170" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 ###
 
