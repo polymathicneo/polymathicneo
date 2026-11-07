@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="./github-stats.svg" height="170" alt="GitHub stats" />
+  <img src="./girlgif.gif" height="170" alt="Quote GIF" />
   <img src="https://streak-stats.demolab.com?user=polymathicneo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu&cache_seconds=86400" height="170" alt="GitHub streak" />
   <img src="./top-languages.svg" height="170" alt="Top languages" />
 </div>
