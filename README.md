@@ -1,4 +1,4 @@
-<h2 align="left">I learn every day, build with purpose, and never stop moving forward.</h2>
+<h2 align="left">"you don’t have to be a genius to code, you just have to be persistent."</h2>
 
 ###
 
